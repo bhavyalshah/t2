@@ -1,0 +1,54 @@
+body {
+  background-color: #f1e4c4;
+}
+ header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1px 0;
+}
+
+nav{
+	background-color: #444;
+	font-family: Bitter,serif;
+	text-align: center;
+         padding: 7px 0px;
+	text-decoration: none;
+}
+ul{
+	list-style:none;
+  padding: 2px 0;
+text-decoration: none;
+	
+}
+.text {
+text-align:right; 
+}
+ .featured-destinations {
+        
+	 padding:5px;
+	color:white;
+	font-size:25px;
+ 	background-color:#333;
+	}
+.h2{
+text-align: center;    
+}
+
+.container {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+
+.image {
+  max-width: 100%;
+  max-height:100%;
+}
+.h3{
+top:20;
+}
+section class="hero"{
+font-family:Bitter
+}
